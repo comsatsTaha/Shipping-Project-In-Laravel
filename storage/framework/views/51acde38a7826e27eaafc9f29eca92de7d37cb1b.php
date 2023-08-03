@@ -73,7 +73,7 @@
                       <i class="now-ui-icons tech_mobile"></i>
                     </div>
                   </div>
-                  <input class="form-control" placeholder="<?php echo e(__('Phone No')); ?>" type="tel" name="phone_no" value="<?php echo e(old('phone_no')); ?>" required>
+                  <input class="form-control" placeholder="<?php echo e(__('Phone No')); ?>" type="tel" name="phone_no" value="<?php echo e(old('phone_no')); ?>" maxlength="11" required>
                  </div>
                  <div class="form-check text-left">
                   <label class="form-check-label">

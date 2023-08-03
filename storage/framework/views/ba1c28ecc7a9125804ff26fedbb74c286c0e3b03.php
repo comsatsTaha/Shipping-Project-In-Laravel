@@ -79,8 +79,8 @@
               <nav class="site-navigation text-right ml-auto " role="navigation">
 
                 <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
-                  <li><a href="#home-section" class="nav-link">Home</a></li>
-                  <li><a href="#services-section" class="nav-link">Services</a></li>
+                  <li><a href="/" class="nav-link">Home</a></li>
+                  <li><a href="/" class="nav-link">Services</a></li>
 
 
                   <li>
